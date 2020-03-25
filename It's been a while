@@ -1,0 +1,7 @@
+import java.util.main;
+private int x;
+
+for(x = 1; x>=21; x++) {
+System.out.println("Hello World");
+
+}
